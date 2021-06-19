@@ -1,0 +1,106 @@
+* {
+  color: black;
+  font-family: "calibri";
+}
+
+.Bedrock {
+  font-size: 25px;
+  text-align: center;
+  margin-left: 70px;
+  text-decoration: none;
+  color: black;
+  background-color: green;
+  border-radius: 10px;
+
+}
+.Java {
+  font-size: 25px;
+  text-align: center;
+  margin-left: 450px;
+  border-radius: 10px;
+}
+
+
+
+.Tips {
+  font-size: 25px;
+  margin-left: 550px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.lineaSeparadora {
+  margin-top: 10px;
+  border-style: solid;
+}
+
+.parrafo1 {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.linkMine {
+  color: blue;
+  font-size: 20px;
+}
+
+.imagen1 {
+  width: 800px;
+  height: 453px;
+  margin-right: 15px;
+  margin-left: 400px;
+  margin-top: 15px;
+}
+
+.ComenzarMundoEnMine {
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.parrafo2 {
+  color: black;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 30px;
+}
+
+.margenInferior {
+  text-align: right;
+  background-color: green;
+  color:  black;
+  font-size: 12px;
+}
+
+.barraDeObjetos {
+  width: 560px;
+  margin-right: 155px;
+  margin-left: 550px;
+  margin-top: 15px;
+}
+
+.lineaJava {
+  text-align: center;
+  border-style: double;
+  color: black;
+  font-size: 40px;
+  border-color: black;
+}
+
+.ColorDeLana {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.GRACIAS {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
